@@ -51,6 +51,14 @@ connect 8000 higher color
                 android:layout_margin="44dp"
 
                 android:backgroundTint="#191818"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="hello android"
+                android:textSize="25sp"
+                android:textColor="#fff"
+                android:gravity="center"
+                />
         </LinearLayout>
 
 
