@@ -46,7 +46,7 @@ connect 8000 higher color
                 android:id="@+id/button1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Run"
+                android:text="soft"
                 android:textSize="15sp"
                 android:layout_margin="44dp"
 
