@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:backgroundTint="#673AB7"
-        android:text="fast comit" />
+        android:text="third comit" />
+
 
 </LinearLayout>
