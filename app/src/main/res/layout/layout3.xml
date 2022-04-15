@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/sazidDis"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#000"
+        android:text=""
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:padding="25dp"
+        />
+
+    <Button
+        android:id="@+id/sazidBtn"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:text="Click Button "
+        android:layout_margin="50dp"
+        android:backgroundTint="#E30909"/>
+
+</LinearLayout>

@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/Android-IT-Service/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1195" />
+        <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/Android-IT-Service/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1195" />
         <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/Android-IT-Service/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
-        <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/Android-IT-Service/app/src/main/res/layout/activity_main2.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/Android-IT-Service/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/Android-IT-Service/app/src/main/res/layout/layout3.xml" value="0.1859375" />
         <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/SAZIDUL RAHMAN/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main2.xml" value="0.2" />
       </map>
